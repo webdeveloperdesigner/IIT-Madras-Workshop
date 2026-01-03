@@ -1,0 +1,20 @@
+.counter {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.count-number {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.button-group {
+  margin-top: 10px;
+}
+
+.btn {
+  margin: 5px;
+  padding: 5px 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
